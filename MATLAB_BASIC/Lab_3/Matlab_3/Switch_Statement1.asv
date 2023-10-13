@@ -1,0 +1,8 @@
+% modes:
+%       1-Car
+%       2-Train
+%       3-Bus
+%       4-Airplane
+
+mode=1
+
